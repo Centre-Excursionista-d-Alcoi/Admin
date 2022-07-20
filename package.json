@@ -1,0 +1,27 @@
+{
+  "name": "cea-admin",
+  "version": "1.0.0",
+  "description": "The admin dashboard for controlling the CEA's apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Centre-Excursionista-d-Alcoi/Admin.git"
+  },
+  "keywords": [
+    "cea",
+    "centre",
+    "excursionista",
+    "alcoi",
+    "admin",
+    "panel"
+  ],
+  "author": "Arnau Mora",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Centre-Excursionista-d-Alcoi/Admin/issues"
+  },
+  "homepage": "https://github.com/Centre-Excursionista-d-Alcoi/Admin#readme"
+}
